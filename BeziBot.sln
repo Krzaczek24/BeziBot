@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KrzaqBot", "KrzaqBot\KrzaqBot.csproj", "{DFE56A14-E045-42BE-A5AF-A8803DAE2A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeziBot", "BeziBot\BeziBot.csproj", "{DFE56A14-E045-42BE-A5AF-A8803DAE2A73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordCommon", "DiscordCommon\DiscordCommon.csproj", "{52FB2A9E-70CD-4159-9712-CBD6E4832C17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DFE56A14-E045-42BE-A5AF-A8803DAE2A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFE56A14-E045-42BE-A5AF-A8803DAE2A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFE56A14-E045-42BE-A5AF-A8803DAE2A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FB2A9E-70CD-4159-9712-CBD6E4832C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FB2A9E-70CD-4159-9712-CBD6E4832C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FB2A9E-70CD-4159-9712-CBD6E4832C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FB2A9E-70CD-4159-9712-CBD6E4832C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

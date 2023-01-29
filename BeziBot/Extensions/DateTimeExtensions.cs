@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace KrzaqBot.Extensions
+namespace BeziBot.Extensions
 {
     internal static class DateTimeExtensions
     {

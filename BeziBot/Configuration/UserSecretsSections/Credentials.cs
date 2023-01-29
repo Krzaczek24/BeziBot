@@ -1,4 +1,4 @@
-﻿namespace KrzaqBot.Configuration.UserSecretsSections
+﻿namespace BeziBot.Configuration.UserSecretsSections
 {
     internal class Credentials
     {

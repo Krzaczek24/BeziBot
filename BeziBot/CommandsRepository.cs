@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace KrzaqBot
+namespace BeziBot
 {
     internal static class CommandsRepository
     {

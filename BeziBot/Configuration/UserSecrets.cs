@@ -1,6 +1,6 @@
-﻿using KrzaqBot.Configuration.UserSecretsSections;
+﻿using BeziBot.Configuration.UserSecretsSections;
 
-namespace KrzaqBot.Configuration
+namespace BeziBot.Configuration
 {
     internal class UserSecrets
     {

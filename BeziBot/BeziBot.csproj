@@ -20,16 +20,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DiscordCommon\DiscordCommon.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="SharpLink">
       <HintPath>Libraries\SharpLink.dll</HintPath>
     </Reference>
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Lavalink\application.yml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="Lavalink\Lavalink.jar">
+    <None Update="settings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
